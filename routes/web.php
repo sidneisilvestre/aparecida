@@ -12,7 +12,8 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
+Route::resource("contato","ContatoController");
+Route::get("mensagem","ContatoController@mensagem");
 Route::get("/","AparecidaController@index");
 Route::resource("home","AparecidaController");
 Route::resource("jornal","MaterController");

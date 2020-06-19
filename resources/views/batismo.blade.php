@@ -1,6 +1,9 @@
 @extends('template_pastoral',['title'=>"Pastoral do Batismo"])
 @section('conteudo')
 		<h1 id="conteudo">Pastoraldo Batismo </h1>
+				<div class="container-fluid">	
+<img src="imagens/batismo.jpg" width="350" height="300" alt="Foto símbolos do batismo ">
+</div>
 <p class="text-center">O Batismo, porta da Vida e do Reino, é o primeiro sacramento da Nova Lei, instituída por Cristo a fim de que todos renasçam para a vida nova no Espírito e entrem no Reino de Deus.
 </p><p class="text-center">
 A pessoa batizada adquire a vida nova à qual se refere a Escritura quando fala de “criatura nova”, “ novo ser humano”, “novo nascimento”, “passagem das trevas a luz”, “passagem do pecado à graça”, “de filiação divina”.

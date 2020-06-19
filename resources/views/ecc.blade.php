@@ -1,6 +1,9 @@
 @extends('template_movimento',['title'=>"Encontro de Casais com Cristo"])
 @section('conteudo')
 		<h1 id="conteudo">Encontro de Casais com Cristo</h1>
+		<div class="container-fluid">	
+<img src="imagens/casais.jpg" width="350" height="300" alt="Foto reunião de casais ">
+</div>
 <p class="text-justify">O Encontro de Casais com Cristo (ECC) é um serviço da Igreja para evangelizar a família, primeiro núcleo de inculturação e de evangelização, “Igreja doméstica” e “Santuário da vida”, para despertar os casais para as pastorais, devidamente integrada na Pastoral Familiar do conjunto da Diocese. Indo ao encontro dos casais mais afastados procura conduzi-los a um engajamento maior na Igreja, apresentando as diversas Pastorais e Movimentos que compõe a Igreja, e a um compromisso cristão com a transformação da sociedade para um mundo mais justo e mais humano.
 </p><p class="text-justify">
 O ECC é composto de uma equipe dirigente a nível paroquial, dirigida espiritualmente pelo nosso pároco, Pe. Luiz Francisco e composta por cinco casais e mais uma equipe de apoio composta por seis casais, que organizam a reunião mensal, a Missa da Família e os Encontros anuais (1ª e 2ª etapa). Acima desta equipe paroquial existe uma equipe dirigente diocesana e acima a Equipe dirigente Nacional.

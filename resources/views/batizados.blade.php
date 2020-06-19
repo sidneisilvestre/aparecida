@@ -16,11 +16,11 @@
 
 
 <h2>Catequese de Pais e Padrinhos:</h2>
-<p class="text-justify"> A Catequese de Pais e Padrinhos acontece todo 2º sábado do mês, iniciando com a participação na missa das 16h e na sequencia com a catequese até às 19h.
-Os batizados acontecem aos domingos na missa das 11h, 
-Maiores informações na Secretaria:
-de 3ª a Sábado : das 8:00 às 12:00 e das 14:00 às 18:00 hs.
-Domingos: das 8:00 às 12:00 hs.
+<p class="text-justify"> A Catequese de Pais e Padrinhos acontece todo 2º sábado do mês, iniciando com a participação na missa das 16h e na sequencia com a catequese até às 19h.<br/>
+Os batizados acontecem aos domingos na missa das 11h, <br/>
+Maiores informações na Secretaria:<br/>
+de Terça a Sexta : das 10:00 às 16:00  hs.<br/>
+sábado: das 09:00 às 17:00 hs.<br/>
 E-mail: paroquiansaparecida.scs@gmail.com
 Fone: (11) 4224-1612
 
